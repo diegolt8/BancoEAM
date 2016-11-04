@@ -1,0 +1,60 @@
+body{
+    background-color: #f11f35;
+
+}
+
+.oculto{
+    display: none;
+}
+#txtNickname{
+    position: relative;
+    top: 179px;
+    left: 583px;
+    height: 34px;
+    width: 198px;
+    text-align: center;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+#txtPassword{
+    position: relative;
+    top: 179px;
+    left: 583px;
+    height: 34px;
+    width: 198px;
+    text-align: center;
+    border-radius: 5px;
+    border-color: transparent;
+}
+#btnLogin{
+    position: relative;
+    left: 472px;
+    top: 200px;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 5px;
+    width: 167px;
+    height: 42px;
+    text-align: center;
+    border-color: yellowgreen;
+}
+#btnRegistrar{
+    position: relative;
+    left: 527px;
+    top: 200px;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 5px;
+    width: 167px;
+    height: 42px;
+    text-align: center;
+    border-color: yellowgreen;
+}
+
+#Logo{
+    width: 415px;
+    height: 214px;
+    position: absolute;
+    left: 458px;
+}
